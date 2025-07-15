@@ -18,7 +18,7 @@ Generate PDF and PNG user personas based on Reddit profiles — powered by Pytho
 ## Sample Output
 
 <div align="center">
-  <img src="sample_output.png" width="600"/>
+  <img src="sample_output.txt" width="600"/>
 </div>
 
 > Auto-generated persona PDF/PNG from any Reddit profile.
